@@ -1,6 +1,6 @@
 # SmartCore Infrastructure Renewal
 
-> Windows Server 2025 enterprise infrastructure design and deployment — John Bryce Academy final project by Nate Sendler (8855-12)
+> Windows Server 2025 enterprise infrastructure design and deployment — John Bryce Academy project by Nate Sendler (8855-12)
 
 ---
 
