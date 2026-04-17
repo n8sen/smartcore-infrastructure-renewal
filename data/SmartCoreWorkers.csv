@@ -1,0 +1,216 @@
+﻿WorkerID,FirstName,LastName,Department,Division
+180,William,Brown,CS,NY
+179,Christopher,Howard,CS,NY
+27,Yossi,Shani,CS,TEL AVIV
+25,Niv,Ginsburg,CS,TEL AVIV
+26,Miri,Peleg,CS,TEL AVIV
+30,Gershon,Sharansky,CS,TEL AVIV
+32,Doron,Fridman,CS,TEL AVIV
+31,Bar,Elbaz,CS,TEL AVIV
+29,Bar,Pinto,CS,TEL AVIV
+28,Ariel,Abramov,CS,TEL AVIV
+182,William,Rogers,Finance,NY
+183,Joseph,Stewart,Finance,NY
+181,Chloe,Stewart,Finance,NY
+39,Yarden,Haddad,Finance,TEL AVIV
+36,Tamar,Azoulay,Finance,TEL AVIV
+38,Orit,Braverman,Finance,TEL AVIV
+37,Omri,Azoulay,Finance,TEL AVIV
+43,Noga,Rabinovich,Finance,TEL AVIV
+34,Miroslav,Tamir,Finance,TEL AVIV
+42,Michal,Adler,Finance,TEL AVIV
+40,Itai,Resnick,Finance,TEL AVIV
+41,Idan,Dayan,Finance,TEL AVIV
+44,Aviv,Pinto,Finance,TEL AVIV
+35,Alisa,Gelman,Finance,TEL AVIV
+33,Adi,Perlman,Finance,TEL AVIV
+214,Sarah,Baker,HR,NY
+215,Noah,Cooper,HR,NY
+170,Yossi,Amar,HR,TEL AVIV
+172,Tal,Schwartz,HR,TEL AVIV
+171,Shani,Grossman,HR,TEL AVIV
+166,Reut,Assulin,HR,TEL AVIV
+169,Inbar,Shani,HR,TEL AVIV
+167,Eyal,Mizrahi,HR,TEL AVIV
+168,Elinor,Gelman,HR,TEL AVIV
+165,Dana,Braverman,HR,TEL AVIV
+203,Victoria,Rogers,Logistics,NY
+196,Sophia,Phillips,Logistics,NY
+184,Scarlett,Cook,Logistics,NY
+204,Samuel,Rogers,Logistics,NY
+193,Ryan,Robinson,Logistics,NY
+188,Robert,Murphy,Logistics,NY
+200,Robert,Young,Logistics,NY
+189,Olivia,Peterson,Logistics,NY
+198,Noah,Scott,Logistics,NY
+206,Natalie,Cooper,Logistics,NY
+190,Natalie,Howard,Logistics,NY
+205,Michael,Morris,Logistics,NY
+207,Madeline,Allen,Logistics,NY
+192,Madeline,Morris,Logistics,NY
+197,Madeline,Murphy,Logistics,NY
+194,Lucy,Adams,Logistics,NY
+185,Liam,Howard,Logistics,NY
+186,Joseph,Perez,Logistics,NY
+199,James,Morris,Logistics,NY
+187,James,Richardson,Logistics,NY
+202,Grace,Morgan,Logistics,NY
+191,Ella,Phillips,Logistics,NY
+195,Alexander,White,Logistics,NY
+201,Abigail,Nelson,Logistics,NY
+136,Yuval,Horowitz,Logistics,TEL AVIV
+47,Yonatan,Goldman,Logistics,TEL AVIV
+95,Yonatan,Rappoport,Logistics,TEL AVIV
+51,Yonatan,Resnick,Logistics,TEL AVIV
+88,Yoav,Tzur,Logistics,TEL AVIV
+45,Yishai,Blumenfeld,Logistics,TEL AVIV
+55,Yarden,Berkman,Logistics,TEL AVIV
+111,Yair,Malka,Logistics,TEL AVIV
+80,Yair,Weiss,Logistics,TEL AVIV
+108,Vered,Blum,Logistics,TEL AVIV
+58,Vered,Nahmias,Logistics,TEL AVIV
+96,Tomer,Levi,Logistics,TEL AVIV
+48,Tomer,Navon,Logistics,TEL AVIV
+87,Tomer,Peleg,Logistics,TEL AVIV
+124,Tatyana,Rosenberg,Logistics,TEL AVIV
+109,Tali,Dayan,Logistics,TEL AVIV
+67,Tal,Avraham,Logistics,TEL AVIV
+75,Shlomit,Eisenberg,Logistics,TEL AVIV
+97,Shira,Bitan,Logistics,TEL AVIV
+101,Shira,Lieberman,Logistics,TEL AVIV
+98,Shani,Horowitz,Logistics,TEL AVIV
+85,Shaked,Elbaz,Logistics,TEL AVIV
+92,Segev,Greenberg,Logistics,TEL AVIV
+112,Rotem,Rosenberg,Logistics,TEL AVIV
+105,Roni,Barak,Logistics,TEL AVIV
+118,Rinat,Mandel,Logistics,TEL AVIV
+132,Omer,Amsalem,Logistics,TEL AVIV
+93,Omer,Regev,Logistics,TEL AVIV
+121,Ofir,Bitan,Logistics,TEL AVIV
+120,Noga,Alon,Logistics,TEL AVIV
+61,Noga,Abramov,Logistics,TEL AVIV
+46,Noam,Ben-Shimon,Logistics,TEL AVIV
+103,Noam,Heller,Logistics,TEL AVIV
+116,Neta,Dahan,Logistics,TEL AVIV
+63,Neta,Malka,Logistics,TEL AVIV
+83,Neta,Rosen,Logistics,TEL AVIV
+69,Nesher,Mandel,Logistics,TEL AVIV
+68,Nathan,Katz,Logistics,TEL AVIV
+91,Nadav,Rappoport,Logistics,TEL AVIV
+94,Naama,Levi,Logistics,TEL AVIV
+53,Naama,Rosenberg,Logistics,TEL AVIV
+71,Mor,Klein,Logistics,TEL AVIV
+77,Mor,Levi,Logistics,TEL AVIV
+84,Michal,Harari,Logistics,TEL AVIV
+54,Maya,Alon,Logistics,TEL AVIV
+100,Maya,Stern,Logistics,TEL AVIV
+59,Matan,Berkovich,Logistics,TEL AVIV
+57,Maayan,Kaufman,Logistics,TEL AVIV
+119,Lior,Barak,Logistics,TEL AVIV
+128,Lihi,Amsalem,Logistics,TEL AVIV
+72,Liad,Kaplan,Logistics,TEL AVIV
+110,Koral,Dahan,Logistics,TEL AVIV
+106,Keter,Plotkin,Logistics,TEL AVIV
+133,Keren,Berkman,Logistics,TEL AVIV
+107,Keren,Shapira,Logistics,TEL AVIV
+134,Itai,Greenberg,Logistics,TEL AVIV
+74,Inbar,Blum,Logistics,TEL AVIV
+65,Hila,Rappoport,Logistics,TEL AVIV
+113,Hadar,Biton,Logistics,TEL AVIV
+52,Gilad,Goldman,Logistics,TEL AVIV
+89,Gil,Berkovich,Logistics,TEL AVIV
+79,Gil,Shani,Logistics,TEL AVIV
+104,Galit,Cohen,Logistics,TEL AVIV
+81,Gal,Sharansky,Logistics,TEL AVIV
+123,Ezra,Buzaglo,Logistics,TEL AVIV
+99,Eyal,Ben-David,Logistics,TEL AVIV
+138,Eyal,Grossman,Logistics,TEL AVIV
+60,Evyatar,Horowitz,Logistics,TEL AVIV
+64,Evgeniy,Shalom,Logistics,TEL AVIV
+66,Evelyn,Bitan,Logistics,TEL AVIV
+131,Erez,Tamir,Logistics,TEL AVIV
+49,Eliav,Azoulay,Logistics,TEL AVIV
+50,Eliav,Brodsky,Logistics,TEL AVIV
+127,Eliav,Sela,Logistics,TEL AVIV
+130,Elad,Mizrahi,Logistics,TEL AVIV
+73,Eitan,Peleg,Logistics,TEL AVIV
+117,Dor,Cohen,Logistics,TEL AVIV
+137,Dor,Gabay,Logistics,TEL AVIV
+114,Dmirtiy,Greenberg,Logistics,TEL AVIV
+125,Dikla,Buzaglo,Logistics,TEL AVIV
+122,Chen,Haddad,Logistics,TEL AVIV
+140,Boaz,Plotkin,Logistics,TEL AVIV
+126,Bezalel,Ben-David,Logistics,TEL AVIV
+62,Ben,Ohayon,Logistics,TEL AVIV
+139,Baruch,Peleg,Logistics,TEL AVIV
+135,Ayelet,Berkovich,Logistics,TEL AVIV
+70,Ayelet,Ginsburg,Logistics,TEL AVIV
+129,Aviv,Kaufman,Logistics,TEL AVIV
+115,Avinatan,Levi,Logistics,TEL AVIV
+82,Avihud,Peretz,Logistics,TEL AVIV
+78,Avi,Kedem,Logistics,TEL AVIV
+102,Avi,Rubinstein,Logistics,TEL AVIV
+76,Ariel,Buzaglo,Logistics,TEL AVIV
+90,Ariel,Yitzhaki,Logistics,TEL AVIV
+86,Amit,Lifshitz,Logistics,TEL AVIV
+56,Aharon,Amar,Logistics,TEL AVIV
+178,Lily,Cook,Management,NY
+21,Nate,Sendler,Management,TEL AVIV
+23,Keren,Friedman,Management,TEL AVIV
+22,Elisha,Ginzburg,Management,TEL AVIV
+24,Elad,Adler,Management,TEL AVIV
+208,Samantha,Phillips,Operations,NY
+212,Nicholas,King,Operations,NY
+213,Matthew,Mitchell,Operations,NY
+211,Joseph,Phillips,Operations,NY
+210,David,Richardson,Operations,NY
+209,Brooklyn,Ward,Operations,NY
+162,Shira,Azoulay,Operations,TEL AVIV
+157,Shawn,Eisenberg,Operations,TEL AVIV
+155,Shani,Dayan,Operations,TEL AVIV
+143,Sapir,Ben-Ami,Operations,TEL AVIV
+151,Sahar,Amar,Operations,TEL AVIV
+154,Ori,Regev,Operations,TEL AVIV
+146,Omri,Rubin,Operations,TEL AVIV
+160,Noga,Katz,Operations,TEL AVIV
+161,Noemi,Ginzburg,Operations,TEL AVIV
+141,Negev,Shapira,Operations,TEL AVIV
+148,Nadav,Klein,Operations,TEL AVIV
+144,Liron,Cohen,Operations,TEL AVIV
+159,Hila,Amsalem,Operations,TEL AVIV
+153,Hadar,Navon,Operations,TEL AVIV
+156,Gil,Tzur,Operations,TEL AVIV
+152,Gal,Blum,Operations,TEL AVIV
+163,Erez,Rosenberg,Operations,TEL AVIV
+142,Eliana,Peretz,Operations,TEL AVIV
+145,Eitan,Avraham,Operations,TEL AVIV
+150,Eitan,Rosen,Operations,TEL AVIV
+164,Efrat,Malka,Operations,TEL AVIV
+147,Dorit,Assulin,Operations,TEL AVIV
+149,Dana,Adler,Operations,TEL AVIV
+158,Boaz,Kedem,Operations,TEL AVIV
+177,Zoe,Murphy,Sales,NY
+174,Sarah,Evans,Sales,NY
+176,Michael,Young,Sales,NY
+175,James,Peterson,Sales,NY
+173,Aiden,Clark,Sales,NY
+20,Ziv,Harari,Sales,TEL AVIV
+14,Vered,Kaufman,Sales,TEL AVIV
+13,Vered,Kedem,Sales,TEL AVIV
+16,Tomer,Barak,Sales,TEL AVIV
+9,Timur,Rosen,Sales,TEL AVIV
+19,Talia,Elbaz,Sales,TEL AVIV
+3,Sapir,Wexler,Sales,TEL AVIV
+8,Sahar,Lieberman,Sales,TEL AVIV
+6,Ronen,Fridman,Sales,TEL AVIV
+5,Osher,Tzur,Sales,TEL AVIV
+15,Or,Gabay,Sales,TEL AVIV
+12,Noam,Alon,Sales,TEL AVIV
+7,Nitzan,Peleg,Sales,TEL AVIV
+17,Maria,Plotkin,Sales,TEL AVIV
+2,Lishay,Schwartz,Sales,TEL AVIV
+4,Lior,Nahmias,Sales,TEL AVIV
+11,Linoy,Ben-Ami,Sales,TEL AVIV
+1,Elinor,Peretz,Sales,TEL AVIV
+18,Eliezer,Katz,Sales,TEL AVIV
+10,Eitan,Goldman,Sales,TEL AVIV
